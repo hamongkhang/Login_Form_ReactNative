@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "login_form",
+    "slug": "login_form",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "login_form"
+}
